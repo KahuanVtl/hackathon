@@ -1,0 +1,60 @@
+.MainA-container {
+    display: flex;
+    width: 100%;
+    background-color: #E5EFFF;
+    padding: 2rem 0;
+}
+
+.MainA-Image {
+    flex: 47%;
+    padding-left: 4rem;
+}
+
+.MainA-Image img {
+    width: 450px;
+}
+
+.MainA-Text {
+    flex: 50%;
+    padding: 0 2rem 0 0;
+    font-family: 'poppins';
+    font-weight: 600;
+}
+
+.MainA-text-tittle {
+    margin: 0.5rem 0 0 0;
+    font-size: 2rem;
+}
+
+.MainA-Text h2:nth-child(1) {
+    color: #3A88FF;
+}
+
+.MainA-Text h2:nth-child(2) {
+    color: #00857C;
+}
+
+.MainA-Text h2:nth-child(3) {
+    color: #FAB842;
+}
+
+.MainA-Text h2:nth-child(4) {
+    color: #000000;
+}
+
+.MainA-Text p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.MainA-custom-button {
+    margin: 2rem 28rem 2rem 0;
+}
+
+.MainA-custom-button a{
+    text-decoration: none;
+}
+
+.MainA-text-subtitle{
+    padding: 1rem 0 0 0 ;
+}

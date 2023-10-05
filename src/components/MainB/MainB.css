@@ -1,0 +1,29 @@
+.MainB-container {
+    background-color: #184F78;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.column {
+    flex: 1;
+    color: white;
+    max-width: 500px;
+}
+
+.column img {
+    max-width: 100%;
+}
+
+.column h2{
+    font: 700;
+    font-family: 'poppins';
+    font-size: 2rem;
+}
+
+.column p{
+    font: 500;
+    font-family: 'poppins';
+    font-size: 1.4rem;
+}
