@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+Hackathon Challenge Project
+Descrição
+Este repositório contém o código fonte e os recursos para o site desenvolvido durante o desafio Hackathon. O projeto foi concebido e implementado por uma equipe multidisciplinar composta por:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1 Front-end Developer
+1 Designer
+1 Desenvolvedor Mobile
+1 Back-end Developer
+O site possui duas principais seções:
 
-## Available Scripts
+Landing Page: Esta página oferece uma visão geral do projeto, destacando sua importância e relevância. É o ponto de entrada para os visitantes, fornecendo informações cruciais sobre o propósito e o escopo do projeto.
 
-In the project directory, you can run:
+Página de Cursos e Perfil: A segunda página é dedicada aos cursos oferecidos e uma seção de perfil que permite aos usuários visualizarem informações sobre os participantes do projeto.
 
-### `npm start`
+Ideia do Projeto
+A ideia por trás deste projeto é a criação de um aplicativo de cursos comunitários, acessível tanto via web quanto em dispositivos móveis, para atender pessoas de baixa ou nenhuma renda. O objetivo é proporcionar a oportunidade de aprender e desenvolver habilidades de forma acessível e inclusiva.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O aplicativo é desenhado com elementos lúdicos e utiliza um sistema de pontuação para motivar os usuários a continuar estudando e aprimorando suas habilidades.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Tecnologias Utilizadas
+O projeto foi implementado utilizando as seguintes tecnologias:
 
-### `npm test`
+React: A biblioteca JavaScript para a construção da interface do usuário, permitindo uma experiência dinâmica e interativa para os visitantes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+JavaScript: A linguagem de programação que serviu como a espinha dorsal do projeto, garantindo a funcionalidade e a interatividade do site.
 
-### `npm run build`
+HTML e CSS: As linguagens fundamentais para a estruturação e o estilo da página, garantindo uma apresentação visualmente atraente e coesa.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Figma: A ferramenta de design utilizada para criar o wireframe do projeto, permitindo uma visualização clara da estrutura e do layout.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Sobre o Cliente
+Este projeto foi desenvolvido em colaboração com a Associação Passos Mágicos, em conjunto com a Alura e a FIAP. O cliente é uma organização com um propósito nobre e este site é uma ferramenta importante para ajudar a cumprir sua missão.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Observações Adicionais
+Apesar do curto prazo de entrega, este projeto foi um esforço conjunto e envolveu um trabalho significativo de todos os membros da equipe. O uso de wireframes web foi uma escolha estratégica para garantir a agilidade no desenvolvimento.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Nota: Certifique-se de consultar os arquivos individuais e pastas dentro deste repositório para obter informações mais detalhadas sobre o código fonte, recursos e qualquer outra documentação relevante relacionada ao projeto.
