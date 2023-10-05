@@ -17,7 +17,7 @@ function MainA() {
                 <p className='MainA-text-subtitle'>Compartilhe sabedoria e transforme vidas.</p>
                 <p>Junte-se à nossa comunidade de ensino voluntário!</p>
                 <div className="MainA-custom-button">
-                    <a href='/'><Button /></a>
+                    <a href='/meus-cursos'><Button /></a>
                 </div>
             </div>
         </div>

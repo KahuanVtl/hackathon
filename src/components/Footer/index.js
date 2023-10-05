@@ -14,10 +14,10 @@ function Footer() {
                 <img src={logo} alt='' />
                 <p className='column-p'>Ensinei é um protótipo de aplicação de educação criado para finalidade de aprendizado como parte do Hack For Change da Alura e FIAP.</p>
                 <div className='footer-links-icones'>
-                    <a href='/' className='column-img'><img src={instagram} alt='Icone do Instagram' /></a>
-                    <a href='/' className='column-img'><img src={linkedin} alt='Icone do Linkedin' /></a>
-                    <a href='/' className='column-img'><img src={facebook} alt='Icone do Facebook' /></a>
-                    <a href='/' className='column-img'><img src={youtube} alt='Icone do Youtube' /></a>
+                    <a href='https://www.instagram.com/passosmagicos/' className='column-img'><img src={instagram} alt='Icone do Instagram' /></a>
+                    <a href='https://www.linkedin.com/in/kahuan-vitelli/' className='column-img'><img src={linkedin} alt='Icone do Linkedin' /></a>
+                    <a href='https://www.facebook.com/AluraCursosOnline/?locale=pt_BR' className='column-img'><img src={facebook} alt='Icone do Facebook' /></a>
+                    <a href='https://www.youtube.com/channel/UCGpFBaQ8bDiU2Y_x01SXjbg' className='column-img'><img src={youtube} alt='Icone do Youtube' /></a>
                 </div>
             </div>
             <div className='column'>

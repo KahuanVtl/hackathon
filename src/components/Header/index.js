@@ -11,8 +11,8 @@ function Header() {
             <div className='header-lista'>
                 <ul>
                     <li><a href='/'>Home</a></li>
-                    <li><a href='/'>Sobre</a></li>
-                    <li><a href='/'>Acesse os Cursos</a></li>
+                    <li><a href='https://passosmagicos.org.br/'>Sobre</a></li>
+                    <li><a href='/meus-cursos'>Acesse os Cursos</a></li>
                 </ul>
             </div>
             <div className='logar'>

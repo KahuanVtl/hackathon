@@ -29,7 +29,7 @@ function Work() {
                         <h2>Grave seu</h2>
                         <h2>vídeo: Ensine!</h2>
                         <p>Seja uma inspiração! Grave quantos vídeos quiser sobre suas especialidades.</p>
-                        <a href='/' className='saiba-mais1'>Saiba Mais</a>
+                        <a href='/meus-cursos' className='saiba-mais1'>Saiba Mais</a>
                         <img src={hoveredGrave ? botao : botaoEscuro} alt='' className='saiba-img1' />
                     </div>
                 </div>
@@ -39,7 +39,7 @@ function Work() {
                         <h2>Compartilhe na</h2>
                         <h2>comunidade</h2>
                         <p>Verifique a qualidade de som e áudio e envie para a comunidade que se relaciona ao tema escolhido</p>
-                        <a href='/' className='saiba-mais'>Saiba Mais</a>
+                        <a href='/meus-cursos' className='saiba-mais'>Saiba Mais</a>
                         <img src={hoveredCompartilhe ? botao : botaoEscuro} alt='' className='saiba-img'/>
                     </div>
                 </div>
@@ -49,7 +49,7 @@ function Work() {
                         <h2>Sucesso no</h2>
                         <h2>aprendizado!</h2>
                         <p>Milhares de alunos serão impactados com seus ensinamentos para um mundo melhor!</p>
-                        <a href='/' className='saiba-mais'>Saiba Mais</a>
+                        <a href='/meus-cursos' className='saiba-mais'>Saiba Mais</a>
                         <img src={hoveredSucesso ? botao : botaoEscuro} alt=''className='saiba-img'/>
                     </div>
                 </div>

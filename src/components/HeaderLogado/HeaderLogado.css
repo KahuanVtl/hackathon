@@ -1,0 +1,59 @@
+.header-container{
+    display: flex;
+    background-color: #E5EFFF;
+    padding: 1rem 3rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-image img{
+    width: 190px;
+    height: auto;
+}
+
+.header-image{
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-lista-ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    margin:  0 0 0 4rem;
+}
+
+.header-lista-li {
+    margin: 0 2.5rem;
+}
+
+.header-lista-li-a {
+    text-decoration: none;
+    color: #184F78;
+    font-family: 'poppins';
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.header-search{
+    margin: 0 1rem 0 0;
+}
+
+.header-input{
+    padding: 0.6rem 8rem;
+    border-radius: 14px;
+    border: 1px solid #05285F;
+    background-color: #EEEEEE;
+}
+
+.search-icon {
+    width: 40px; /* Ajuste o tamanho conforme necessário */
+    height: 40px; /* Ajuste o tamanho conforme necessário */
+    background-image: url('../../assets/botaoEscuro.svg');
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin-right: 0.5rem;
+}
