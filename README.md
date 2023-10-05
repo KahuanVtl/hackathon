@@ -1,4 +1,5 @@
 Hackathon Challenge Project
+
 Descrição
 Este repositório contém o código fonte e os recursos para o site desenvolvido durante o desafio Hackathon. O projeto foi concebido e implementado por uma equipe multidisciplinar composta por:
 
